@@ -16,7 +16,7 @@ A modern, responsive Patient Records Dashboard built with React, Vite, and Tailw
 - 🎨 Modern UI with Tailwind CSS
 - ⚡ Fast development with Vite
 
-## Live Demo : 
+## Live Demo : https://jarurat-care-assignment-seven.vercel.app/
 
 ## Screenshots
 
